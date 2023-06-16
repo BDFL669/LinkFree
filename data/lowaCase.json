@@ -1,0 +1,56 @@
+{
+  "name": "Nigel Lowa",
+  "bio": "React and JavaScript Expert.",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/BDFL669",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Checkout My Blog",
+      "url": "https://nigel.io",
+      "icon": "FaGlobe"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/Nigellowa/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Follow me on Facebook",
+      "url": "https://www.facebook.com/nigelokoth",
+      "icon": "FaFacebook"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Graduated Highschool",
+      "date": "2010",
+      "icon": "FaGraduationCap",
+      "color": "gold",
+      "description": "Graduated highschool after excelling 4 years of boarding school."
+    },
+    {
+      "title": "Enrolled in FreeCodeCamp",
+      "date": "2019",
+      "icon": "FaGlobe",
+      "color": "grey",
+      "description": "This was the beginning on my programming journey."
+    },
+    {
+      "title": "Started Building Wordpress Themes",
+      "date": "2020",
+      "icon": "FaGlobe",
+      "color": "grey",
+      "description": "This was the beginning on my programming journey."
+    },
+    {
+      "title": "Helping Hungry Kids",
+      "date": "July 2022",
+      "icon": "FaSearch",
+      "color": "#f0c",
+      "description": "Started helping a non profit organization to give homeless families a place to stay and food to eat."
+    }
+  ]
+}
